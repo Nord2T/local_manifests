@@ -12,7 +12,7 @@
   
   <project path="device/oneplus/denniz" name="Nord2T/device_karen_oneplus2" revision="master" remote="github" />
   
-  <project path="kernel/oneplus/denniz" name="" revision="tiramisu" remote="github" />
+  <project path="kernel/oneplus/denniz" name="Nord2T/android_kernel_oneplus_mt6893" revision="2T" remote="github" />
   
   <project path="vendor/oneplus/denniz" name="Nord2T/vendor_karen" revision="master" remote="github" />
   <project path="vendor/mediatek/ims" name="Nord2T/vendor_mediatek_ims" revision="main" remote="github" />
